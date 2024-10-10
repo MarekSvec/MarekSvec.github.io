@@ -96,7 +96,7 @@ div table{
     color: orange;
 }
 div > ul{
-    color: rgb(255, 0, 200);
+    color: magenta;
 }
 .button{
     display: inline-block;
